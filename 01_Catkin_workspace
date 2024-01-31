@@ -8,4 +8,6 @@ src
 ~/catkin_ws$ catkin_make
 ~/catkin_ws$ ls
 build devel src
+~/catkin_ws$ catkin_make
+
 
