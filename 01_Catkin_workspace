@@ -1,2 +1,11 @@
 // Setting up the Catkin Workspace
+$ mkdir catkin_ws
+$ cd catkin_ws/
+~/catkin_ws$ ls
+~/catkin_ws$ mkdir src
+~/catkin_ws$ ls
+src
+~/catkin_ws$ catkin_make
+~/catkin_ws$ ls
+build devel src
 
