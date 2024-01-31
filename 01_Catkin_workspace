@@ -9,5 +9,7 @@ src
 ~/catkin_ws$ ls
 build devel src
 ~/catkin_ws$ catkin_make
-
+/catkin_ws/devel$ cd
+$ source ~/catkin_ws/devel/setup.bash
+$ gedit ~/.bashrc
 
